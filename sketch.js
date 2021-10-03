@@ -22,7 +22,7 @@ function preload(){
   ast2=loadImage("ast2.png");
   ufoImg=loadImage("ufo.png");
   
-  gameOverImg=loadImage("game.png")
+  gameOverImg=loadImage("game.jpg")
   
 }
 function setup() {
